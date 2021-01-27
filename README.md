@@ -19,7 +19,7 @@ There were a parent and his/her child in a group, and each group was distinguish
 
 Refer to the dataset descriptions in 'docs' for detailed description and statistics of the full set of the dataset.
 
-The dataset is a subset(approximately 5%) of a much bigger dataset which were recorded under the same circumstances as these open source datasets. Please contact us(contact@deeplyinc.com) for the full set with the commercial license.
+The dataset is a subset(approximately 1%) of a much bigger dataset which were recorded under the same circumstances as these open source datasets. Please contact us(contact@deeplyinc.com) for the full set with the commercial license.
 
 ## Dataset statistics
 The illustrations below are the statistics about the Deeply Parent-Child Vocal Interaction Dataset. The first two are from the sample dataset, And the others are from the full dataset. To attain more insight about the dataset, please refer to the detailed description in 'docs' and 'Korea_Read_Speech_Corpus.json' in 'Dataset'.
@@ -27,15 +27,15 @@ The illustrations below are the statistics about the Deeply Parent-Child Vocal I
 The sample is a partial set of recordings from a single subject group(sub3004), which consists of 39-year-old female(parent, speaker a) and 5-year-old male(child, speaker b).
 
 <p float="left">
-  <img src="https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset/blob/main/etc/fig0.png" width="500" />
-  <img src="https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset/blob/main/etc/fig1.png" width="500" />
+  <img src="https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset/blob/main/etc/fig0.png" width="400" />
+  <img src="https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset/blob/main/etc/fig1.png" width="400" />
 </p>
 <p float="left">
-  <img src="https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset/blob/main/etc/fig2.png" width="500" />
-  <img src="https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset/blob/main/etc/fig3.png" width="500" />
+  <img src="https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset/blob/main/etc/fig2.png" width="400" />
+  <img src="https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset/blob/main/etc/fig3.png" width="400" />
 <p float="left">
-  <img src="https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset/blob/main/etc/fig4.png" width="500" />
-  <img src="https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset/blob/main/etc/fig5.png" width="500" />
+  <img src="https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset/blob/main/etc/fig4.png" width="400" />
+  <img src="https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset/blob/main/etc/fig5.png" width="400" />
 
 ## Structure
 ```
