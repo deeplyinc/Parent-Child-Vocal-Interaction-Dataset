@@ -1,7 +1,7 @@
 # Deeply Parent-Child Vocal Interaction Dataset
 ---
 ## Summary
-The interaction of 24 pairs of parent and child(total 48 speakers), such as <u>*__reading fairy tales, singing children’s songs, conversing, and others__*</u>, is recorded. The recordings took place in <u>*__3 different types of places__*</u>, which are *an anechoic chamber, studio apartment, and dance studio*, of which the level of reverberation differs. And in order to examine the effect of the distance of mic from the source and device, every experiment is recorded at <u>*__3 distinct distances)__*</u> with <u>*__2 types of smartphone__*</u>, *iPhone X, and Galaxy S7*.
+The interaction of 24 pairs of parent and child(total 48 speakers), such as <u>*__reading fairy tales, singing children’s songs, conversing, and others__*</u>, is recorded. The recordings took place in <u>*__3 different types of places__*</u>, which are *an anechoic chamber, studio apartment, and dance studio*, of which the level of reverberation differs. And in order to examine the effect of the distance of mic from the source and device, every experiment is recorded at <u>*__3 distinct distances__*</u> with <u>*__2 types of smartphone__*</u>, *iPhone X, and Galaxy S7*.
 
 There were a parent and his/her child in a group, and each group was distinguished by a unique key(subject ID). Two speakers(speaker a(parent), speaker b(child)) were sitting on the floor(purple area in the pictures below), and asked to do 3 types of interactions, singing children's song, reading fairy tales, and singing lullabies. 
 
