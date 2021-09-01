@@ -104,7 +104,7 @@ For example, if speaker a(parent, male, 35 yo) sings and speaker b(child, female
 Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)  
 ![Vue](https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset/blob/main/etc/by-nc-nd.png)
 
-## Other Deeply dataset
+## Other Deeply datasets
 * **[Deeply Korean Read Speech Corpus](https://github.com/deeplyinc/Korean-Read-Speech-Corpus)**
   - Pairs of Korean reading the scripts with 3 text sentiments using 3 vocal sentiments. Recorded in 3 types of places, at 3 distinct distances, with 2 types of smartphone.
 * **[Deeply Nonverbal Vocalization Dataset](https://github.com/deeplyinc/Nonverbal-Vocalization-Dataset)**
