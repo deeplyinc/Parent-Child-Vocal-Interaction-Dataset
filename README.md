@@ -1,5 +1,5 @@
 # Deeply Parent-Child Vocal Interaction Dataset
----
+__Contact for any inquiries__ Email: contact@deeplyinc.com | Web: http://deeplyinc.com/ | Tel: (+82) 70-7459-0704
 ## Summary
 The interaction of 24 pairs of parent and child(total 48 speakers), such as <u>*__reading fairy tales, singing children’s songs, conversing, and others__*</u>, is recorded. The recordings took place in <u>*__3 different types of places__*</u>, which are *an anechoic chamber, studio apartment, and dance studio*, of which the level of reverberation differs. And in order to examine the effect of the distance of mic from the source and device, every experiment is recorded at <u>*__3 distinct distances__*</u> with <u>*__2 types of smartphone__*</u>, *iPhone X, and Galaxy S7*.
 
